@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">本地音乐播放器</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="goon">继续</string>
+    <string name="exit">退出</string>
+    <string name="musicname">歌曲名</string>
+</resources>
